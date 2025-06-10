@@ -49,56 +49,19 @@ We offer system integration, API design, and full lifecycle development.
 
 ---
 
-## ⚙️ How to Run Locally
 
-```bash
-# Clone the repository
-git clone https://github.com/adelsoliman-x/DeepSightX.git
-cd DeepSightX
 
-# Backend setup
-cd backend
-pip install -r requirements.txt
-
-# Frontend setup
-cd ../frontend
-npm install
-
-# Run both
-# Option 1: Manually
-npm run dev (in frontend)
-python app.py (or equivalent in backend)
-
-# Option 2: Docker
-docker-compose up --build
-🖥️ Platform Modules
-✅ Task & Project Management
-
-✅ Client & Invoice Management
-
-✅ Analytics Dashboard
-
-✅ Real-time Notifications
-
-✅ Role-based Permissions
-
-✅ AI-based Media Analysis (OCR, Face Detection, etc.)
-
-🧠 Why DeepSightX?
+## 🧠 Why DeepSightX?
 🔄 Scalable systems built for startups & SMEs
-
 🎯 Customized software aligned to your workflow
-
 ⚡ Fast deployment with CI/CD pipelines
-
 🤝 Real technical support & long-term partnership
 
-📬 Contact & Services
+##📬 Contact & Services
 🔗 Visit us at: https://www.deepsightx.com
-📩 Email: hello@deepsightx.com
-📞 Call: +20-xxx-xxx-xxxx
+📩 Email: info@deepsightx.com
 
-📄 License
+##📄 License
 This repository is licensed under the MIT License.
 You're free to use it, modify it, and contribute under the terms.
 
